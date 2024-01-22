@@ -1,1 +1,3 @@
 # Project
+So, my project is when you press the upper or lower arrow in the keyboard. A small circle will come up or down for some distance. And the same as the right and left key. Will lead the circle go right or left. And also, if you press the blank key, the color of the background will change into random color
+The way to control it Is to use the if and else if statement. If the up-arrow has been pressed. The value of the location will+10, the down will-10, and the same as the left and right key.  And also the website to check the number of each key, the blank key’s number is 32. So, if the function equal 32, the color will change into random value. So that the color will change.
